@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Aditya Samanta</h2>
+<h1 align="center">Hi 👋, I'm Aditya Samanta</h1>
 <h3>🐍 Currently building scalable applications using Python Full Stack (Django + React)</h3>
 
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="about.png" width="60%" alt="Aditya Samanta Banner"/>
+  <img src="about1.png" width="100%" alt="Aditya Samanta Banner"/>
 </p>
 
 
