@@ -3,7 +3,7 @@
 
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="about1.png" width="100%" alt="Aditya Samanta Banner"/>
+  <img src="about1.png" width="110%" alt="Aditya Samanta Banner"/>
 </p>
 
 
@@ -15,8 +15,8 @@
 🚀 Working with Python, JavaScript, React, Node, SQL & Django <br><br>
 
 📫 <b>Let's connect!</b> <br>
-<a href="https://www.linkedin.com/">LinkedIn</a> |
-<a href="https://x.com/">X (Twitter)</a>
+<a href="https://www.linkedin.com/in/aditya2005mm/">LinkedIn</a> |
+<a href="https://x.com/Aditya_x28">X (Twitter)</a>
 <br><br>
 
 ⚡ <b>Fun fact:</b> Do you know what <code>typeof NaN</code> returns in JavaScript?
