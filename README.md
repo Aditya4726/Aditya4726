@@ -3,7 +3,7 @@
 
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="about.png" width="100%" alt="Aditya Samanta Banner"/>
+  <img src="about.png" width="60%" alt="Aditya Samanta Banner"/>
 </p>
 
 
